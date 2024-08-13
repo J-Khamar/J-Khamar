@@ -1,1 +1,1 @@
-# Hi There, I'm Jeet - A 4th Year Computer Science Student
+# Hi There, I'm Jeet - I don't hve many repos, because the code I write makes money.
